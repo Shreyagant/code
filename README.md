@@ -1,3 +1,3 @@
 # code
-this is my repository
-Author -shreya ganti
+this is my repository<br>
+<b>Author -shreya ganti</b>
